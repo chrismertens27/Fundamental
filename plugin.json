@@ -61,7 +61,7 @@
         "Dual",
         "Polyphonic"
       ],
-      "hidden": true
+      "hidden": false
     },
     {
       "slug": "LFO",
@@ -142,7 +142,7 @@
         "Utility",
         "Dual"
       ],
-      "hidden": true
+      "hidden": false
     },
     {
       "slug": "Mutes",
